@@ -279,6 +279,7 @@ body.dark-theme {
 .new__img {
   width: 270px;
   margin-bottom: 1rem;
+  border-radius: 0.75rem;
 }
 .new__link {
   display: flex;
@@ -350,6 +351,9 @@ body.dark-theme {
 }
 .products__card {
   width: 270px;
+}
+.products__card img {
+  border-radius: 0.75rem;
 }
 .products__img {
   margin-bottom: 1rem;
